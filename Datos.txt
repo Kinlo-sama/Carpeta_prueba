@@ -1,0 +1,7 @@
+Descargar ->  https://cli.github.com/
+Para linux 
+>>gh 
+Es necesario iniciar sesion 
+>>gh auth login 
+Mira las opciones que te dan necesario mirar las ramas y las conexiones ( me refiero a los nombres)
+git pull para actualizar cambios de un repositorio en caso de haber cambios en dicho repositorios 
